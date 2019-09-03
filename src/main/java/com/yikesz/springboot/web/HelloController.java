@@ -1,4 +1,4 @@
-package com.yikesz.springboot;
+package com.yikesz.springboot.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
